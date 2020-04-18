@@ -8,3 +8,5 @@ Screenshots are of my Azure account and attempting to run the WordCount program 
 
 I tried deleting my cluster to make a new one to resolve the issue, but Azure kept throwing an error saying I could not delete it,
 which is also included in a screenshot.
+
+Input file was the one used in the tutorial, davinci.txt
